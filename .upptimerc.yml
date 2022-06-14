@@ -11,8 +11,6 @@ sites:
     url: https://nas.cicorella.net
   - name: TransportLC
     url: https://www.transportlc.fr
-  - name: broken
-    url: https://www.broken.cicorella.net
   
 
 assignees: # Users to assign downtime issues (optional)
