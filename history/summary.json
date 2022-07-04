@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 68,
-    "timeWeek": 83,
+    "timeDay": 92,
+    "timeWeek": 86,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/titouan-joseph.cicorella.net",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.53%",
+    "uptimeDay": "13.83%",
+    "uptimeWeek": "87.69%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.53%",
     "time": 1423,
-    "timeDay": 1276,
-    "timeWeek": 1470,
+    "timeDay": 0,
+    "timeWeek": 1442,
     "timeMonth": 1423,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2022-07-03": 1
+      "2022-07-04": 123,
+      "2022-07-03": 1117
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/nas.cicorella.net",
     "slug": "nas",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.53%",
+    "uptimeDay": "13.87%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.53%",
     "time": 1594,
-    "timeDay": 1288,
-    "timeWeek": 1787,
+    "timeDay": 0,
+    "timeWeek": 1815,
     "timeMonth": 1594,
     "timeYear": 1594,
     "dailyMinutesDown": {
-      "2022-07-03": 1
+      "2022-07-04": 123,
+      "2022-07-03": 1117
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/www.transportlc.fr",
     "slug": "transport-lc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.53%",
+    "uptimeDay": "13.90%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.53%",
     "time": 1855,
-    "timeDay": 1790,
-    "timeWeek": 1967,
+    "timeDay": 0,
+    "timeWeek": 1897,
     "timeMonth": 1855,
     "timeYear": 1855,
     "dailyMinutesDown": {
-      "2022-07-03": 0
+      "2022-07-04": 123,
+      "2022-07-03": 1116
     }
   }
 ]
