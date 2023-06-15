@@ -9,8 +9,6 @@ sites:
     url: https://titouan-joseph.cicorella.net
   - name: NAS
     url: https://nas.cicorella.net
-  - name: TransportLC
-    url: https://www.transportlc.fr
   
 
 assignees: # Users to assign downtime issues (optional)
