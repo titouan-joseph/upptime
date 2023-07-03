@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 71,
-    "timeWeek": 77,
+    "time": 101,
+    "timeDay": 74,
+    "timeWeek": 79,
     "timeMonth": 93,
     "timeYear": 103,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.99%",
-    "time": 1343,
-    "timeDay": 1076,
-    "timeWeek": 1272,
-    "timeMonth": 1317,
+    "time": 1342,
+    "timeDay": 1227,
+    "timeWeek": 1293,
+    "timeMonth": 1322,
     "timeYear": 1337,
     "dailyMinutesDown": {
       "2023-06-07": 18,
@@ -60,8 +60,7 @@
       "2022-07-25": 25,
       "2022-07-12": 38,
       "2022-07-05": 37,
-      "2022-07-04": 1066,
-      "2022-07-03": 1117
+      "2022-07-04": 1066
     }
   },
   {
@@ -70,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 1538,
-    "timeDay": 745,
-    "timeWeek": 912,
-    "timeMonth": 2747,
-    "timeYear": 1534,
+    "time": 1536,
+    "timeDay": 1044,
+    "timeWeek": 953,
+    "timeMonth": 2740,
+    "timeYear": 1533,
     "dailyMinutesDown": {
       "2023-04-23": 16,
       "2023-04-18": 154,
@@ -101,8 +100,7 @@
       "2022-07-12": 38,
       "2022-07-07": 150,
       "2022-07-06": 2,
-      "2022-07-04": 1066,
-      "2022-07-03": 1117
+      "2022-07-04": 1066
     }
   }
 ]
