@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 96,
-    "timeWeek": 132,
-    "timeMonth": 102,
+    "timeDay": 135,
+    "timeWeek": 138,
+    "timeMonth": 103,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-07-09": 15
@@ -26,15 +26,15 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "38.50%",
     "uptimeWeek": "85.09%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "99.13%",
-    "time": 1341,
-    "timeDay": 1040,
-    "timeWeek": 1272,
-    "timeMonth": 1297,
-    "timeYear": 1329,
+    "time": 1342,
+    "timeDay": 1286,
+    "timeWeek": 1304,
+    "timeMonth": 1306,
+    "timeYear": 1330,
     "dailyMinutesDown": {
       "2023-07-11": 990,
       "2023-07-10": 513,
@@ -61,8 +61,7 @@
       "2022-08-15": 24,
       "2022-08-04": 25,
       "2022-07-27": 48,
-      "2022-07-25": 25,
-      "2022-07-12": 38
+      "2022-07-25": 25
     }
   },
   {
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 1526,
-    "timeDay": 1113,
-    "timeWeek": 981,
-    "timeMonth": 1584,
+    "timeDay": 1364,
+    "timeWeek": 1054,
+    "timeMonth": 1484,
     "timeYear": 1517,
     "dailyMinutesDown": {
       "2023-04-23": 16,
@@ -98,8 +97,7 @@
       "2022-08-16": 47,
       "2022-08-15": 24,
       "2022-08-04": 24,
-      "2022-07-27": 48,
-      "2022-07-12": 38
+      "2022-07-27": 48
     }
   }
 ]
