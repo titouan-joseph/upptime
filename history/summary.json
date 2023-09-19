@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 365,
-    "timeWeek": 138,
-    "timeMonth": 101,
+    "timeDay": 59,
+    "timeWeek": 133,
+    "timeMonth": 100,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-08-11": 24,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/titouan-joseph.cicorella.net.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "78.50%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.27%",
     "time": 1341,
-    "timeDay": 1472,
-    "timeWeek": 1398,
-    "timeMonth": 1350,
+    "timeDay": 1356,
+    "timeWeek": 1353,
+    "timeMonth": 1344,
     "timeYear": 1325,
     "dailyMinutesDown": {
       "2023-09-18": 310,
@@ -55,8 +55,7 @@
       "2022-12-01": 18,
       "2022-10-21": 397,
       "2022-10-18": 172,
-      "2022-10-17": 303,
-      "2022-09-19": 487
+      "2022-10-17": 303
     }
   },
   {
@@ -70,11 +69,11 @@
     "uptimeWeek": "96.93%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.55%",
-    "time": 1764,
-    "timeDay": 2465,
-    "timeWeek": 3324,
-    "timeMonth": 3688,
-    "timeYear": 1824,
+    "time": 1773,
+    "timeDay": 3671,
+    "timeWeek": 3667,
+    "timeMonth": 3576,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2023-09-18": 309,
       "2023-09-02": 16,
@@ -87,8 +86,7 @@
       "2022-12-07": 86,
       "2022-10-21": 397,
       "2022-10-18": 172,
-      "2022-10-17": 302,
-      "2022-09-19": 465
+      "2022-10-17": 302
     }
   }
 ]
