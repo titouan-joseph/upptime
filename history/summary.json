@@ -29,7 +29,7 @@
     "uptime": "94.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.60%",
+    "uptimeMonth": "58.75%",
     "uptimeYear": "89.24%",
     "time": 1469,
     "timeDay": 0,
@@ -105,17 +105,16 @@
     "slug": "nas",
     "status": "up",
     "uptime": "95.13%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "58.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "58.68%",
     "uptimeYear": "90.38%",
     "time": 3352,
-    "timeDay": 2586,
+    "timeDay": 3920,
     "timeWeek": 10873,
     "timeMonth": 6843,
     "timeYear": 3699,
     "dailyMinutesDown": {
-      "2024-08-17": 10,
       "2024-08-02": 308,
       "2024-07-30": 536,
       "2024-07-29": 1440,
@@ -166,8 +165,7 @@
       "2023-11-07": 57,
       "2023-10-04": 26,
       "2023-09-18": 309,
-      "2023-09-02": 16,
-      "2023-08-19": 180
+      "2023-09-02": 16
     }
   }
 ]
