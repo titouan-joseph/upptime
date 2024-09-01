@@ -96,8 +96,7 @@
       "2023-11-11": 1380,
       "2023-11-07": 56,
       "2023-09-23": 287,
-      "2023-09-18": 310,
-      "2023-09-02": 17
+      "2023-09-18": 310
     }
   },
   {
@@ -105,19 +104,20 @@
     "url": "https://nas.cicorella.net",
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
-    "status": "down",
-    "uptime": "95.21%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "90.40%",
-    "time": 4000,
-    "timeDay": 19727,
-    "timeWeek": 13652,
-    "timeMonth": 9591,
-    "timeYear": 4305,
+    "status": "up",
+    "uptime": "95.20%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "90.39%",
+    "time": 3998,
+    "timeDay": 14119,
+    "timeWeek": 13119,
+    "timeMonth": 9481,
+    "timeYear": 4303,
     "dailyMinutesDown": {
-      "2024-08-31": 0,
+      "2024-09-01": 24,
+      "2024-08-31": 5,
       "2024-08-30": 16,
       "2024-08-28": 24,
       "2024-08-26": 17,
@@ -173,8 +173,7 @@
       "2023-11-11": 1012,
       "2023-11-07": 57,
       "2023-10-04": 26,
-      "2023-09-18": 309,
-      "2023-09-02": 16
+      "2023-09-18": 309
     }
   }
 ]
