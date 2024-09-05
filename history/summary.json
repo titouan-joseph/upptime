@@ -106,7 +106,7 @@
     "slug": "nas",
     "status": "down",
     "uptime": "95.22%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "90.38%",
@@ -116,7 +116,7 @@
     "timeMonth": 10717,
     "timeYear": 4546,
     "dailyMinutesDown": {
-      "2024-09-05": 0,
+      "2024-09-05": 1,
       "2024-09-04": 24,
       "2024-09-02": 47,
       "2024-09-01": 24,
