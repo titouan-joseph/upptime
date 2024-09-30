@@ -9,6 +9,8 @@ sites:
     url: https://titouan-joseph.cicorella.net
   - name: NAS
     url: https://nas.cicorella.net
+  - name: neonlink
+    url: https://neonlink.cluster.cicorella.net
   
 
 assignees: # Users to assign downtime issues (optional)
