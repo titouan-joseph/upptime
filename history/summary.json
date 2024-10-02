@@ -107,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "95.35%",
+    "uptime": "95.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.24%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "90.39%",
     "time": 4389,
     "timeDay": 4396,
     "timeWeek": 5355,
-    "timeMonth": 9900,
+    "timeMonth": 10088,
     "timeYear": 4986,
     "dailyMinutesDown": {
       "2024-09-13": 9,
@@ -186,5 +186,23 @@
       "2023-11-07": 57,
       "2023-10-04": 26
     }
+  },
+  {
+    "name": "neonlink",
+    "url": "https://neonlink.cluster.cicorella.net",
+    "icon": "https://icons.duckduckgo.com/ip3/neonlink.cluster.cicorella.net.ico",
+    "slug": "neonlink",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
