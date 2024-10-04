@@ -11,6 +11,8 @@ sites:
     url: https://nas.cicorella.net
   - name: neonlink
     url: https://neonlink.cluster.cicorella.net
+  - name: nodered
+    url: https://nodered.cluster.cicorella.net
   
 
 assignees: # Users to assign downtime issues (optional)
