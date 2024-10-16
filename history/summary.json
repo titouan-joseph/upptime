@@ -27,9 +27,9 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "94.70%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "89.02%",
     "time": 1553,
     "timeDay": 1654,
@@ -37,7 +37,6 @@
     "timeMonth": 1733,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2024-10-15": 9,
       "2024-09-19": 25,
       "2024-09-11": 483,
       "2024-09-10": 692,
@@ -109,9 +108,9 @@
     "slug": "nas",
     "status": "up",
     "uptime": "95.43%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "90.39%",
     "time": 4484,
     "timeDay": 4192,
@@ -119,7 +118,6 @@
     "timeMonth": 4982,
     "timeYear": 4886,
     "dailyMinutesDown": {
-      "2024-10-15": 9,
       "2024-09-13": 9,
       "2024-09-12": 14,
       "2024-09-11": 27,
@@ -194,19 +192,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/neonlink.cluster.cicorella.net.ico",
     "slug": "neonlink",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1394,
     "timeDay": 1429,
     "timeWeek": 1384,
     "timeMonth": 1394,
     "timeYear": 1394,
-    "dailyMinutesDown": {
-      "2024-10-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "nodered",
@@ -214,18 +210,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodered.cluster.cicorella.net.ico",
     "slug": "nodered",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1336,
     "timeDay": 1231,
     "timeWeek": 1393,
     "timeMonth": 1336,
     "timeYear": 1336,
-    "dailyMinutesDown": {
-      "2024-10-15": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
