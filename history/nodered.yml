@@ -1,7 +1,7 @@
 url: https://nodered.cluster.cicorella.net
-status: down
-code: 403
-responseTime: 1333
-lastUpdated: 2024-11-15T18:17:33.321Z
+status: up
+code: 200
+responseTime: 1490
+lastUpdated: 2024-11-15T18:44:54.906Z
 startTime: 2024-10-04T14:10:50.251Z
 generator: Upptime <https://github.com/upptime/upptime>
