@@ -103,7 +103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "95.58%",
+    "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -203,19 +203,19 @@
     "url": "https://nodered.cluster.cicorella.net",
     "icon": "https://icons.duckduckgo.com/ip3/nodered.cluster.cicorella.net.ico",
     "slug": "nodered",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "88.94%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.73%",
-    "time": 1401,
-    "timeDay": 1421,
-    "timeWeek": 1397,
-    "timeMonth": 1416,
-    "timeYear": 1401,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "68.40%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "99.25%",
+    "time": 1399,
+    "timeDay": 1405,
+    "timeWeek": 1389,
+    "timeMonth": 1412,
+    "timeYear": 1399,
     "dailyMinutesDown": {
-      "2024-11-15": 159
+      "2024-11-15": 455
     }
   }
 ]
