@@ -203,18 +203,19 @@
     "url": "https://nodered.cluster.cicorella.net",
     "icon": "https://icons.duckduckgo.com/ip3/nodered.cluster.cicorella.net.ico",
     "slug": "nodered",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "42.63%",
+    "uptimeDay": "42.62%",
     "uptimeWeek": "91.80%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "98.65%",
-    "time": 1384,
-    "timeDay": 1368,
-    "timeWeek": 1362,
-    "timeMonth": 1397,
-    "timeYear": 1384,
+    "time": 1390,
+    "timeDay": 1383,
+    "timeWeek": 1375,
+    "timeMonth": 1403,
+    "timeYear": 1390,
     "dailyMinutesDown": {
+      "2024-11-16": 0,
       "2024-11-15": 827
     }
   }
