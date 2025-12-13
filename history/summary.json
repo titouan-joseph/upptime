@@ -6,17 +6,17 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 252,
     "timeWeek": 173,
     "timeMonth": 116,
-    "timeYear": 107,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-12-13": 8
+      "2025-12-13": 0
     }
   },
   {
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/titouan-joseph.cicorella.net.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "66.90%",
+    "uptime": "66.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 837,
+      "2025-12-13": 1085,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -411,9 +411,9 @@
     "status": "up",
     "uptime": "76.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "24.64%",
-    "uptimeMonth": "49.17%",
-    "uptimeYear": "32.11%",
+    "uptimeWeek": "27.10%",
+    "uptimeMonth": "49.74%",
+    "uptimeYear": "32.16%",
     "time": 2821,
     "timeDay": 812,
     "timeWeek": 843,
@@ -689,7 +689,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 837,
+      "2025-12-13": 1085,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -1073,7 +1073,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 837,
+      "2025-12-13": 1085,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
