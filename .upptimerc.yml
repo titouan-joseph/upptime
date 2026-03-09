@@ -5,15 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Portfolio
-    url: https://titouan-joseph.cicorella.net
   - name: NAS
     url: https://nas.cicorella.net
   - name: neonlink
-    url: https://neonlink.cluster.cicorella.net
-  - name: nodered
-    url: https://nodered.cluster.cicorella.net
-  
+    url: https://neonlink.strange.cicorella.net
 
 assignees: # Users to assign downtime issues (optional)
   - titouan-joseph
