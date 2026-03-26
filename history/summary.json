@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 101,
-    "timeWeek": 134,
-    "timeMonth": 148,
-    "timeYear": 124,
+    "time": 124,
+    "timeDay": 871,
+    "timeWeek": 244,
+    "timeMonth": 152,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2025-12-14": 18
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
     "status": "down",
-    "uptime": "75.03%",
-    "uptimeDay": "85.33%",
-    "uptimeWeek": "97.90%",
+    "uptime": "74.98%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.60%",
     "uptimeMonth": "61.64%",
     "uptimeYear": "47.61%",
     "time": 1366,
     "timeDay": 0,
-    "timeWeek": 943,
+    "timeWeek": 970,
     "timeMonth": 1041,
     "timeYear": 1366,
     "dailyMinutesDown": {
-      "2026-03-25": 38,
+      "2026-03-26": 40,
+      "2026-03-25": 1440,
       "2026-03-24": 173,
       "2026-03-08": 790,
       "2026-03-07": 1440,
@@ -233,8 +234,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   },
   {
@@ -243,16 +243,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/neonlink.strange.cicorella.net.ico",
     "slug": "neonlink",
     "status": "up",
-    "uptime": "13.91%",
+    "uptime": "14.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.28%",
-    "uptimeYear": "4.28%",
-    "time": 1025,
-    "timeDay": 493,
-    "timeWeek": 584,
-    "timeMonth": 648,
-    "timeYear": 648,
+    "uptimeMonth": "62.57%",
+    "uptimeYear": "4.55%",
+    "time": 991,
+    "timeDay": 475,
+    "timeWeek": 593,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2026-03-09": 596,
       "2026-03-08": 1440,
@@ -601,8 +601,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   }
 ]
