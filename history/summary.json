@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 74,
-    "timeWeek": 114,
-    "timeMonth": 143,
-    "timeYear": 125,
+    "timeDay": 153,
+    "timeWeek": 108,
+    "timeMonth": 145,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2025-12-14": 18
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "74.58%",
+    "uptime": "74.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "49.23%",
-    "uptimeMonth": "63.11%",
-    "uptimeYear": "48.55%",
-    "time": 1356,
-    "timeDay": 852,
-    "timeWeek": 1065,
-    "timeMonth": 1047,
-    "timeYear": 1356,
+    "uptimeWeek": "63.51%",
+    "uptimeMonth": "66.39%",
+    "uptimeYear": "48.83%",
+    "time": 1354,
+    "timeDay": 958,
+    "timeWeek": 1050,
+    "timeMonth": 1043,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2026-04-05": 36,
       "2026-04-03": 804,
@@ -230,8 +230,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -240,16 +239,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/neonlink.strange.cicorella.net.ico",
     "slug": "neonlink",
     "status": "up",
-    "uptime": "15.94%",
+    "uptime": "16.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.16%",
-    "uptimeYear": "7.84%",
-    "time": 737,
-    "timeDay": 586,
-    "timeWeek": 690,
-    "timeMonth": 661,
-    "timeYear": 661,
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "8.11%",
+    "time": 710,
+    "timeDay": 597,
+    "timeWeek": 662,
+    "timeMonth": 659,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2026-03-09": 596,
       "2026-03-08": 1440,
@@ -585,8 +584,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   }
 ]
