@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 191,
-    "timeWeek": 117,
-    "timeMonth": 148,
+    "timeDay": 76,
+    "timeWeek": 115,
+    "timeMonth": 149,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-12-14": 18
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "74.61%",
+    "uptime": "74.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.73%",
+    "uptimeWeek": "92.08%",
     "uptimeMonth": "68.10%",
-    "uptimeYear": "49.10%",
-    "time": 1354,
-    "timeDay": 1294,
-    "timeWeek": 1080,
-    "timeMonth": 1022,
-    "timeYear": 1354,
+    "uptimeYear": "49.38%",
+    "time": 1352,
+    "timeDay": 907,
+    "timeWeek": 1061,
+    "timeMonth": 1005,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2026-04-05": 36,
       "2026-04-03": 804,
@@ -228,8 +228,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -238,16 +237,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/neonlink.strange.cicorella.net.ico",
     "slug": "neonlink",
     "status": "up",
-    "uptime": "16.25%",
+    "uptime": "16.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "8.39%",
-    "time": 682,
-    "timeDay": 655,
-    "timeWeek": 646,
-    "timeMonth": 659,
-    "timeYear": 659,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "8.66%",
+    "time": 654,
+    "timeDay": 475,
+    "timeWeek": 645,
+    "timeMonth": 647,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2026-03-09": 596,
       "2026-03-08": 1440,
@@ -581,8 +580,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   }
 ]
