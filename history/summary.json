@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 51,
-    "timeWeek": 82,
-    "timeMonth": 102,
+    "timeDay": 115,
+    "timeWeek": 84,
+    "timeMonth": 103,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2025-12-14": 18
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "75.10%",
+    "uptime": "75.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.79%",
-    "uptimeYear": "57.33%",
-    "time": 1316,
-    "timeDay": 851,
-    "timeWeek": 1048,
-    "timeMonth": 1082,
-    "timeYear": 1316,
+    "uptimeYear": "57.60%",
+    "time": 1315,
+    "timeDay": 988,
+    "timeWeek": 1034,
+    "timeMonth": 1074,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2026-05-01": 1149,
       "2026-04-30": 256,
@@ -199,8 +199,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   },
   {
@@ -209,18 +208,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/neonlink.strange.cicorella.net.ico",
     "slug": "neonlink",
     "status": "down",
-    "uptime": "19.37%",
+    "uptime": "19.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.60%",
+    "uptimeMonth": "71.31%",
     "uptimeYear": "14.77%",
-    "time": 646,
-    "timeDay": 469,
-    "timeWeek": 615,
-    "timeMonth": 638,
-    "timeYear": 646,
+    "time": 642,
+    "timeDay": 381,
+    "timeWeek": 529,
+    "timeMonth": 624,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2026-05-10": 56,
+      "2026-05-11": 56,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -530,8 +530,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   }
 ]
