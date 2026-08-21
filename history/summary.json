@@ -25,11 +25,11 @@
     "url": "https://nas.cicorella.net",
     "icon": "https://icons.duckduckgo.com/ip3/nas.cicorella.net.ico",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "76.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "80.29%",
     "time": 1514,
     "timeDay": 1440,
@@ -122,7 +122,8 @@
       "2026-05-28": 13,
       "2026-05-27": 36,
       "2026-07-01": 65,
-      "2026-07-14": 63
+      "2026-07-14": 63,
+      "2026-08-21": 5
     }
   },
   {
@@ -131,7 +132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/neonlink.strange.cicorella.net.ico",
     "slug": "neonlink",
     "status": "down",
-    "uptime": "16.47%",
+    "uptime": "16.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -342,7 +343,7 @@
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
-      "2026-08-21": 85,
+      "2026-08-21": 246,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
